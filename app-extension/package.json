@@ -1,0 +1,22 @@
+{
+  "name": "quasar-app-extension-ext-quasar-prime-buscar-venda",
+  "version": "0.0.1",
+  "description": "Componente para o prime da tela buscar venda.",
+  "author": "Lennon Bueno <lennonsbueno@gmail.com>",
+  "license": "UNLICENSED",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LennonSantos/ext-quasar-prime-buscar-venda"
+  },
+  "bugs": "https://github.com/LennonSantos/ext-quasar-prime-buscar-venda/issues",
+  "homepage": "",
+  "dependencies": {
+    "quasar-ui-ext-quasar-prime-buscar-venda": "file://Users/lennonbueno/projetos/athoslabs/ext-quasar-prime-buscar-venda/ui"
+  },
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  }
+}
